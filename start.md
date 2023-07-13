@@ -1,54 +1,53 @@
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
+
+## Course Plan
+
+The lecture and seminar plan contain information about the timing, topics, course instructor, as well as resources/tasks for each topic.  
+- [Lecture and Seminar Plan](forelesningsplan.html){:target="blank"}
+
+The submission plan provides tasks, deadlines, and resources related to compulsory assignments.  
+- [Submission Plan](innleveringer.html){:target="blank"}   
+
+[Timetable](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module[]=SOK-3008-1#week-26){:target="blank"} on timeplan.uit.no
 
 
-## Kursplan  
+## Course Description 
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+This is an applied course in the disciplines of economics and marketing. The course is designed to give students sufficient background to formulate, estimate, and interpret theoretically consistent market demand relationships. After completing this course, you should be able to do price analysis using classic demand models, like the Rotterdam and Almost Ideal demand model. Furthermore, focus will be on advanced quantitative models in economics, finance and marketing research. We will mainly use R for the estimations.
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
+Se full description [here](https://uit.no/utdanning/emner/emne/805684/sok-3008){:target="blank"}.
 
 
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+## Instructors
+
+- [Dejene Gizaw Kidane](https://uit.no/ansatte/dejene.g.kidane){:target="blank"} (course responsible)
+- [Øystein Myrland](https://uit.no/ansatte/oystein.myrland){:target="blank"} 
 
 
-## Kursbeskrivelse 
+## Curriculum 
+
+Readings provided in Canvas.
+
+Textbook: [Principles of Econometrics](http://principlesofeconometrics.com/poe5/poe5.html){:target="blank"} 5th Edition (POE5), Wiley - 2018. Available at the campus bookstore Akademika.
+
+By R. Carter Hill, William E. Griffiths and Guay C. Lim. POE5 is an introductory book for students in economics and finance, as well as students in accounting, agricultural economics, marketing, public policy, sociology, law and political science. It assumes that students have a formal background with courses in the principles of economics/microeconomics, and elementary mathematics and statistics.
+
+Curriculum: Chapter 10, 11, 15 and 16.
 
 
-Kurset består av ulike interessante tema  
+## Announcements  
+
+Announcements and messages are posted in [Canvas](https://uit.instructure.com/courses/31424){:target="blank"}.
 
 
-## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+## Obligatory Assignments (Examination) and Submission
+
+In this course, you will write two obligatory term papers on given topics on market analysis and a project presentation.
+Your final grade is determined based on these two term papers (this implies that there is no final exam for this course).
+You can write the term papers alone or with up to two individuals in a group.
+The term papers should have to be submitted through Wiseflow within a given deadline date.
 
 
+## Administrative Questions
 
-## Administrative spørsmål
-
-For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
-
-
-## Pensum  
-
-### Pensum til forelesningene
-
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
-
-
-
-## Kunngjøringer  
-
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
-
-
-## Innlevering og eksamen  
-
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
-
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
-
+For administrative inquiries, please send an email to: <hhcampus@hjelp.uit.no>. There, you will receive help from the School of Business Administration.
