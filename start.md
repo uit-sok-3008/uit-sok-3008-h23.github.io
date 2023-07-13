@@ -5,9 +5,6 @@
 The lecture and seminar plan contain information about the timing, topics, course instructor, as well as resources/tasks for each topic.  
 - [Lecture and Seminar Plan](forelesningsplan.html){:target="blank"}
 
-The submission plan provides tasks, deadlines, and resources related to compulsory assignments.  
-- [Submission Plan](innleveringer.html){:target="blank"}   
-
 [Timetable](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module[]=SOK-3008-1#week-26){:target="blank"} on timeplan.uit.no
 
 
@@ -26,7 +23,7 @@ Se full description [here](https://uit.no/utdanning/emner/emne/805684/sok-3008){
 
 ## Curriculum 
 
-Readings provided in Canvas.
+Readings/papers provided in Canvas.
 
 Textbook: [Principles of Econometrics](http://principlesofeconometrics.com/poe5/poe5.html){:target="blank"} 5th Edition (POE5), Wiley - 2018. Available at the campus bookstore Akademika.
 
@@ -42,10 +39,10 @@ Announcements and messages are posted in [Canvas](https://uit.instructure.com/co
 
 ## Obligatory Assignments (Examination) and Submission
 
-In this course, you will write two obligatory term papers on given topics on market analysis and a project presentation.
+In this course, you will write two obligatory term papers on given topics on market analysis, and give a project presentation.
 Your final grade is determined based on these two term papers (this implies that there is no final exam for this course).
 You can write the term papers alone or with up to two individuals in a group.
-The term papers should have to be submitted through Wiseflow within a given deadline date.
+The term papers is to be submitted through Wiseflow on a given deadline date.
 
 
 ## Administrative Questions
