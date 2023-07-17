@@ -41,7 +41,7 @@ Announcements and messages are posted in [Canvas](https://uit.instructure.com/co
 
 In this course, you will write two obligatory term papers on given topics on market analysis, and give a project presentation.
 Your final grade is determined based on these two term papers (this implies that there is no final exam for this course).
-You can write the term papers alone or with up to two individuals in a group.
+You can write the term papers alone or together with one other person.
 The term papers is to be submitted through Wiseflow on a given deadline date.
 
 
