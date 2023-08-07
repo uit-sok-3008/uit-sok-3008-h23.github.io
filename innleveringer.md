@@ -1,18 +1,7 @@
 {% include navbar_open.html %}{% include top-box.html %}
-# Sok-xxxx Mikroøkonomi   
+# SOK-3008 Models for market analysis
 
-## Innleveringer 
+## Submissions/final exam
 
-- Arbeidskrav er obligatorisk, men inngår ikke i mappen.
-- Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
-- Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
+In this course, you will write two obligatory term papers on given topics on market analysis, and give a project presentation one the last project. Your final grade is determined based on these two term papers (this implies that there is no final exam for this course). You can write the term papers alone or together with one other person. The term papers is to be submitted through Wiseflow on a given deadline date.
 
-
-| Type oppgave                       | Innleveringsfrist | Ressurser |
-|------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      |  xx.xx            | kommer    |
-|Arbeidskrav 1                       | Uke x/x           | kommer    |
-|Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
-
-
-Oppgavene kan løses i grupper på maksimalt 3.
